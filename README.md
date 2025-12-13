@@ -1,5 +1,3 @@
-# portfolio_website.-io
-from: Wendy Carmen
 ✨ Features
 
 🎨 Modern UI Design with gradient backgrounds and glassmorphism effects
